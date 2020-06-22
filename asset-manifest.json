@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jane0112/accounting-app/static/css/main.3f0fe818.chunk.css",
-    "main.js": "/jane0112/accounting-app/static/js/main.e65804cc.chunk.js",
-    "main.js.map": "/jane0112/accounting-app/static/js/main.e65804cc.chunk.js.map",
-    "runtime-main.js": "/jane0112/accounting-app/static/js/runtime-main.a0c14979.js",
-    "runtime-main.js.map": "/jane0112/accounting-app/static/js/runtime-main.a0c14979.js.map",
-    "static/js/2.f8df16ed.chunk.js": "/jane0112/accounting-app/static/js/2.f8df16ed.chunk.js",
-    "static/js/2.f8df16ed.chunk.js.map": "/jane0112/accounting-app/static/js/2.f8df16ed.chunk.js.map",
-    "index.html": "/jane0112/accounting-app/index.html",
-    "precache-manifest.2f11cdcdcb2b6efc9e300cdf73f06142.js": "/jane0112/accounting-app/precache-manifest.2f11cdcdcb2b6efc9e300cdf73f06142.js",
-    "service-worker.js": "/jane0112/accounting-app/service-worker.js",
-    "static/css/main.3f0fe818.chunk.css.map": "/jane0112/accounting-app/static/css/main.3f0fe818.chunk.css.map",
-    "static/js/2.f8df16ed.chunk.js.LICENSE.txt": "/jane0112/accounting-app/static/js/2.f8df16ed.chunk.js.LICENSE.txt"
+    "main.css": "/accounting-app/static/css/main.3f0fe818.chunk.css",
+    "main.js": "/accounting-app/static/js/main.e65804cc.chunk.js",
+    "main.js.map": "/accounting-app/static/js/main.e65804cc.chunk.js.map",
+    "runtime-main.js": "/accounting-app/static/js/runtime-main.64083a93.js",
+    "runtime-main.js.map": "/accounting-app/static/js/runtime-main.64083a93.js.map",
+    "static/js/2.c9415c98.chunk.js": "/accounting-app/static/js/2.c9415c98.chunk.js",
+    "static/js/2.c9415c98.chunk.js.map": "/accounting-app/static/js/2.c9415c98.chunk.js.map",
+    "index.html": "/accounting-app/index.html",
+    "precache-manifest.645cb1f4af78f2b0a31ba035ef795372.js": "/accounting-app/precache-manifest.645cb1f4af78f2b0a31ba035ef795372.js",
+    "service-worker.js": "/accounting-app/service-worker.js",
+    "static/css/main.3f0fe818.chunk.css.map": "/accounting-app/static/css/main.3f0fe818.chunk.css.map",
+    "static/js/2.c9415c98.chunk.js.LICENSE.txt": "/accounting-app/static/js/2.c9415c98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0c14979.js",
-    "static/js/2.f8df16ed.chunk.js",
+    "static/js/runtime-main.64083a93.js",
+    "static/js/2.c9415c98.chunk.js",
     "static/css/main.3f0fe818.chunk.css",
     "static/js/main.e65804cc.chunk.js"
   ]
