@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jane0112/accounting-app.git/static/css/main.3f0fe818.chunk.css",
+    "main.js": "/jane0112/accounting-app.git/static/js/main.e65804cc.chunk.js",
+    "main.js.map": "/jane0112/accounting-app.git/static/js/main.e65804cc.chunk.js.map",
+    "runtime-main.js": "/jane0112/accounting-app.git/static/js/runtime-main.ee8a248f.js",
+    "runtime-main.js.map": "/jane0112/accounting-app.git/static/js/runtime-main.ee8a248f.js.map",
+    "static/js/2.f2bea58f.chunk.js": "/jane0112/accounting-app.git/static/js/2.f2bea58f.chunk.js",
+    "static/js/2.f2bea58f.chunk.js.map": "/jane0112/accounting-app.git/static/js/2.f2bea58f.chunk.js.map",
+    "index.html": "/jane0112/accounting-app.git/index.html",
+    "precache-manifest.396166020f65f6b4d36fa0475e2df8bd.js": "/jane0112/accounting-app.git/precache-manifest.396166020f65f6b4d36fa0475e2df8bd.js",
+    "service-worker.js": "/jane0112/accounting-app.git/service-worker.js",
+    "static/css/main.3f0fe818.chunk.css.map": "/jane0112/accounting-app.git/static/css/main.3f0fe818.chunk.css.map",
+    "static/js/2.f2bea58f.chunk.js.LICENSE.txt": "/jane0112/accounting-app.git/static/js/2.f2bea58f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee8a248f.js",
+    "static/js/2.f2bea58f.chunk.js",
+    "static/css/main.3f0fe818.chunk.css",
+    "static/js/main.e65804cc.chunk.js"
+  ]
+}
