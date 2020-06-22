@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+body {
+    background-color: #FCF5E9;
+    /* height: 100vh; */
+}
+
+.navbar {
+    display: none;
+    width: 100%;
+    height: 45px;
+    background-color: #1B2234;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    color: #FCCB4A;
+    /* padding: 10px; */
+}
+
+.navLink {
+    padding: 10px;
+}
+
+.accountingContainer {
+    background-color: #FCF5E9;
+    display: flex;
+    align-items: stretch;
+}
+
+@media (max-width:850px) {
+    .accountingContainer {
+        display: block;
+    }
+    .navbar {
+        display: block;
+    }
+}
